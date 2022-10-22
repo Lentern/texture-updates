@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "Backports resource updates from newer Minecraft versions"
+  }
+}

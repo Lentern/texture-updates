@@ -1,0 +1,16 @@
+{
+  "datapackFailure.title": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
+  "multiplayer.status.client_out_of_date": "Incompatible version!",
+  "multiplayer.status.server_out_of_date": "Incompatible version!",
+  "options.screenEffectScale.off": "OFF",
+  "options.fovEffectScale.off": "OFF",
+  "options.fovEffectScale.tooltip": "Controls how much the field of view can change with gameplay effects.",
+  "options.vsync": "VSync",
+  "title.multiplayer.disabled": "Multiplayer is disabled. Please check your Microsoft account settings.",
+  "block.minecraft.lapis_block": "Block of Lapis Lazuli",
+  "subtitles.entity.shulker_bullet.hit": "Shulker Bullet explodes",
+  "subtitles.entity.shulker_bullet.hurt": "Shulker Bullet breaks",
+  "subtitles.item.axe.strip": "Axe strips",
+  "advancements.husbandry.netherite_hoe.description": "Use a Netherite Ingot to upgrade a hoe, and then reevaluate your life choices",
+  "advancements.story.shiny_gear.title": "Cover Me with Diamonds"
+}
