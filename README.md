@@ -1,5 +1,5 @@
 # Texture Updates
-This resource pack takes various textures (and other resources) updated in newer versions of Minecraft and backports them to 1.14+. For example, the compass texture was changed in 1.17. Therefore, this resource pack allows you to use that texture in 1.14, 1.15 and 1.16.
+This resource pack takes HUNDREDS of textures (and other resources) updated in newer versions of Minecraft and backports them to 1.14+. For example, the compass texture was changed in 1.17. As such, this resource pack will implement that texture into 1.14, 1.15 and 1.16.
 
 **These are not my textures. These are made by Mojang Studios, contributors to this project and other sources that I may have borrowed from (ex. VanillaTweaks).**
 
@@ -7,7 +7,7 @@ This resource pack takes various textures (and other resources) updated in newer
 The best idea is downloading the [latest release of the resource pack from the releases tab](https://github.com/Lentern/Texture-Updates/releases/latest). We support 1.14+ and don't plan to drop versions at the moment. Alternatively, you can download the source from your preferred branch to get the latest changes.
 
 # Contributing
-We're always looking for help! If you want to contribute, take a look at the spreadsheet (will link soon, I prefer LibreOffice over Google Sheets) of fixes and submit your own from the available ones. Anything in red or purple is available. From there, create a [pull request](https://github.com/Lentern/Texture-Updates/pulls) and create multiple fixes (if possible) for all affected versions. If one fix works for all, simply mention that. If you notice an issue with the spreadsheet, please use Google's suggesting feature instead.
+We're always looking for help! If you want to contribute, [take a look at the spreadsheet of fixes](https://docs.google.com/spreadsheets/d/1r4IKCPRXu4Nl1yRUb2QpNSQo2Nt9WtCJ42dTjg6dtvg/edit?usp=sharing) and submit your own from the available ones. Anything in red or purple is available. From there, create a [pull request](https://github.com/Lentern/Texture-Updates/pulls) for the latest applicible branch and create fixes for all affected versions (if possible). If one fix works for all, simply mention that. If you notice an issue with the spreadsheet, please use Google's suggesting feature instead.
 
 # Q&A
 Not FAQ because this is new and doesn't have any frequent questions.
