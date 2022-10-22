@@ -1,0 +1,2 @@
+Fix for Villager and Witch robes borrowed from VanillaTweaks (because I don't know json) credit to them!
+Also the cat z-fighting fix was also borrowed from VanillaTweaks.
