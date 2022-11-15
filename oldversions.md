@@ -27,7 +27,7 @@ You should not use these anymore, but the links are here if you want to download
 
 [1.14-1.14.4](https://cdn.discordapp.com/attachments/817555049893855262/954128608279035934/Texture_Updates_v1.1.2_1.14-1.14.4.zip)
 
-#1.1.1
+## 1.1.1
 [1.17-1.17.1](https://cdn.discordapp.com/attachments/817555049893855262/913033213004361728/Texture_Updates_v1.1.1_1.17-1.17.1.zip)
 
 [1.16.2-1.16.5](https://cdn.discordapp.com/attachments/817555049893855262/913033220247924767/Texture_Updates_v1.1.1_1.16.2-1.16.5.zip)
